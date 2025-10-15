@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kontak Saya</title>
+<style>
+body { font-family: sans-serif; text-align: center; margin-top: 50px; }
+button {
+  background-color: #ffcc00;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 18px;
+}
+</style>
+</head>
+<body>
+<h2>Hubungi Saya via WhatsApp</h2>
+<a href="https://wa.me/62881027127981">
+  <button>Klik untuk Chat</button>
+</a>
+</body>
+</html>
